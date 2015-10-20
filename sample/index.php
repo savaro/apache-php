@@ -6,7 +6,7 @@
 	body {
 		background-color: white;
 		text-align: center;
-		padding: 50px;
+		padding: 51px;
 		font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 	}
 
