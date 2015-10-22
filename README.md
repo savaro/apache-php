@@ -23,7 +23,7 @@ Test your deployment:
 
     curl http://localhost/
 
-Hello world!
+Hello world! This is Apache.
 
 
 Enable .htaccess files
