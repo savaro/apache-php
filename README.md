@@ -4,7 +4,7 @@ tutum-docker-php
 Base docker image to run PHP applications on Apache
 
 #Update this file to test auto build.
-#Upated on 11.12 to trigger build again. -Jing
+#Upated on 11.17 to trigger build again. -Jing
 #Upated  - test auto service deployment. - Jing udate
 
 
