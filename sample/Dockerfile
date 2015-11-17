@@ -2,7 +2,7 @@ FROM ubuntu:trusty
 MAINTAINER Fernando Mayo <fernando@tutum.co>
 
 # Install base packages
-# This is a change.
+# This is a change, in sample folder.
 RUN apt-get update && \
     DEBIAN_FRONTEND=noninteractive apt-get -yq install \
         curl \
