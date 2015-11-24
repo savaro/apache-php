@@ -6,7 +6,7 @@ Base docker image to run PHP applications on Apache
 Building the base image
 
 Comments for auto build.
--Add spaces.
+-Add spaces. -Jing
 
 -----------------------
 
