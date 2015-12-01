@@ -7,6 +7,7 @@ Building the base image
 Trigger auto build on IO. - Jing
 
 Try to trigger again.
+Trigger autobuild 1.
 
 -----------------------
 
