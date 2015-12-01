@@ -71,6 +71,6 @@ Create a Dockerfile like the following:
     ADD . /app
     RUN composer install
 
-- Replacing `git` with any dependencies that your composer packages might need
+- Replacing `git` with any dependencies that your composer packages might need.
 - Add your php application to `/app`
 
