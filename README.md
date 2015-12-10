@@ -5,8 +5,7 @@ Base docker image to run PHP applications on Apache
 
 Building the base image
 Trigger auto build on IO. - Jing
-Verify the auto build issue.- Should be fixed on IO.
-Verify IO
+Verify the auto build issue.-Jing 12-10
 
 
 -----------------------
