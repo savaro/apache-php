@@ -11,8 +11,7 @@ Verify IO
 
 -----------------------
 
-To create the base image `tutum/apache-php`, execute the following command on the tutum-docker-php folder:
-
+To create the base image `tutum/apache-php`, execute the 
     docker build -t tutum/apache-php .
 
 
