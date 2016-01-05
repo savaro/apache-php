@@ -2,6 +2,8 @@ tutum-docker-php
 ================
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
 
+hello, staging 
+
 Base docker image to run PHP applications on Apache
 
 
