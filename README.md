@@ -1,6 +1,6 @@
 tutum-docker-php
 ================
-Jing 1.05 build test.
+Jing 1.05 auto build test.
 
 
 -----------------------
