@@ -2,6 +2,7 @@ FROM ubuntu:trusty
 MAINTAINER Fernando Mayo <fernando@tutum.co>
 
 # Install base packages
+# For Jing's test only.
 # This is a change, in sample folder. 
 RUN apt-get update && \
     DEBIAN_FRONTEND=noninteractive apt-get -yq install \
