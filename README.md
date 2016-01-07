@@ -1,6 +1,6 @@
 tutum-docker-php
 ================
-Jing 1.05 build
+Jing 1.07 build
 
 
 -----------------------
