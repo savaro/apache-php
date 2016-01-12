@@ -1,9 +1,5 @@
 tutum-docker-php
 ================
-Jing 1.12 build
-aaaa
-
-
 -----------------------
 
 To create the base image `tutum/apache-php`, execute the 
