@@ -2,6 +2,8 @@ tutum-docker-php
 ================
 -----------------------
 
+hello docker
+
 To create the base image `tutum/apache-php`, execute the 
     docker build -t tutum/apache-php .
 
